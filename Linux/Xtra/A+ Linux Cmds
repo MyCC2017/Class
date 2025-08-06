@@ -1,0 +1,46 @@
+Terminal: the tool/console to enter cmd lines into to control the computer
+
+{cmd} --help to get the hlep menu
+man - manual - the linux manual.  man {cmd} to read about it
+
+ls - list cmd.  show the contents of a directory
+
+pwd - print /present working diretory. show where you are at
+
+cd - change directory - go into or move to a differnt directory/folder
+
+mv - move a file .. also renames a file
+
+cp - copy a file
+
+rm -  remove(delete) a file 
+
+chmod - change permissions
+- three sets of three
+User/Group/others
+r= Read(4)  w= Write(2)   x= eXecute(Run)(1)  -= None(0)
+
+chown - change the owner of a file
+
+su/sudo -  switch user/ super user do (cmd)
+
+
+apt-get or yum -- Package managers  -- install, update , unstall programs
+
+ip a(ddress) - shows internet protocol configuration
+
+df - shows disk (storage drive) usage
+
+ps - process status- shows what the computer is doing 
+top - like task manager, it updates
+
+find - search for files base on search criteria
+
+grep - look in a file for a patern of letters/words
+
+nano - is a text editor - create/edit text files
+
+cat - read a file(s) put on screen
+
+dig - name system resolution
+
