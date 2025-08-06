@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#This is my crappy script that does some things
+
+# Keep up!
+
+echo "Firefox and thunderbird"
+
+firefox &
+
+#thunderbird &

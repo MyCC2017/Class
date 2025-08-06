@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# GO JASON
+
+jason="5000%"
+daniel="5000%"
+gavin="5000%"
+echo $jason $daniel $gavin
+
+

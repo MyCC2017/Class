@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# Nothign will happen.
+# stuff goes in this line.  But what?
+cp Friday Saturday &
+/usr/bin/firefox &
+/usr/bin/thunderbird &
+echo "here comes your things"
+# this shoudl find and list all scripts in my folder
+find -r ~ *script* > Script-list
+echo "go look at Script-list
