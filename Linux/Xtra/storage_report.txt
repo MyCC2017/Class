@@ -1,4 +1,0 @@
-Date: Wed Dec 14 02:04:41 PM EST 2022
-------------------
-CAUTION: /dev/sda5 is 68% full! Consider freeing up some space.
-/dev/sda1 is 1% full. No action needed.
