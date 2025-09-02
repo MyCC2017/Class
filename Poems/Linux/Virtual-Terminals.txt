@@ -1,7 +1,0 @@
-Virtual Terminals:
-
-Ctl Alt F1 = you will see the GUI
-
-Clt Alt F2 thru F6 = you can log in to the CLI
-
-*allows true multi-user experience and allows potential troubleshooting
